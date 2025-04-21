@@ -100,7 +100,11 @@ description: 臺灣法規政策：臺灣現在怎麼做，想要怎麼做？
 	- 社會環境對AI治理有何特殊優勢或挑戰
 
 ---
+
+[查看好政網站 :material-search-web:](https://youthhub.yda.gov.tw/){ .md-button }
+
+---
 [^1]: 關於專案內容以官方最新公告為準
 
 
-[查看好政網站 :material-search-web:](https://youthhub.yda.gov.tw/){ .md-button }
+

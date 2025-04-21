@@ -181,4 +181,4 @@ description: 初探目前關於倫理與治理議題的挑戰與趨勢
 * **加強公眾意識和教育 (Enhancing Public Awareness and Education):** 提高公眾對人工智慧的潛在益處和風險的認識。
 * **多方利益相關者合作 (Multi-stakeholder Collaboration):** 促進政府、產業、學術界和公民社會之間的合作，共同應對人工智慧的倫理和治理挑戰。
 
-
+---

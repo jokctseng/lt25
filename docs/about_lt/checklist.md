@@ -97,10 +97,12 @@ description: 那些要做的事
 		- 民間團體、法人或公司行號：領據（要有：機關章、出納、會計、負責人章）、存摺影本 
 		- 青年團隊：收據（含身分證影本）、存摺影本
 
+---
 
+[查看好政網站 :material-search-web:{ .lg .middle }](https://youthhub.yda.gov.tw/){ .md-button }
 
 ---
 [^1]: 關於專案內容以官方最新公告為準
 
 
-[查看好政網站 :material-search-web:{ .lg .middle }](https://youthhub.yda.gov.tw/){ .md-button }
+

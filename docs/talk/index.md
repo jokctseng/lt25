@@ -58,15 +58,11 @@ description: 一起建構良好討論空間吧
 
     Let's Talk是一個讓青年討論公共議題的平台與計畫，團隊夥伴可以先想想自己的期待，討論的結果想要改變政策嗎？或者有其他考量？就讓我們先從政策的生成與簡要議題分析開始吧
 
-    [:material-arrow-right-bold-box-outline:{ .lg .middle } Read More](/lt25/talk/content)
-
 -   :fontawesome-solid-comments:{ .lg .middle } __討論思維與技巧__
 
     ---
 
     要完成目標設計一場「好」的討論，當然與討論方法的理解與技巧有關，無論團隊是否有意願擔任主持角色，都可以了解這些內涵，以利設計時融入這些思考點喔！
-
-    [:material-arrow-right-bold-box-outline:{ .lg .middle } Read More](lt25/talk/facilitation)
 
 
 </div>

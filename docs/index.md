@@ -34,7 +34,7 @@ description: 如何用一季的時間從零開始籌辦一場AI相關審議活�
     透過自身敏捷專案管理經驗，分享基礎概念與注意事項，陪伴評估量能以及調整時程安排。
     要快速落地，也要安心搞定
 
-    [:octicons-arrow-right-24:{ .lg .middle } 評估看看](/lt25/proj.md)
+    [:octicons-arrow-right-24:{ .lg .middle } 評估看看](/lt25/proj)
 
 -   :material-robot-love:{ .lg .middle } __一些關於AI的補充__
 
