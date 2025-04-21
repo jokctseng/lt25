@@ -24,7 +24,7 @@ description: 帶你快速認識青年好政
 
     要達成理想目標並非易事，在過程中也需要不同角色協力。先來看看一場Talk的背後都有哪些角色吧！
 
-    [:material-arrow-right-bold-box-outline:{ .lg .middle } Read More](/about_lt/ppl/)
+    [:material-arrow-right-bold-box-outline:{ .lg .middle } Read More](/lt25/about_lt/ppl/)
 
 -   :material-checkbox-multiple-marked:{ .lg .middle } __這些事要完成__
 
@@ -32,7 +32,7 @@ description: 帶你快速認識青年好政
 
     要完成目標設計一場「好」的討論，涉及到對於政策歷程、議題分析以及討論方法的理解，透過分享這些內容的基礎概念，陪伴一起設計並執行一場公共討論
 
-    [:material-arrow-right-bold-box-outline:{ .lg .middle } Check Out](/about_lt/checklist/)
+    [:material-arrow-right-bold-box-outline:{ .lg .middle } Check Out](/lt25/about_lt/checklist/)
 
 </div>
 

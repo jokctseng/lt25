@@ -17,7 +17,7 @@ description: 如何用一季的時間從零開始籌辦一場AI相關審議活�
 
     Let's Talk是一支怎麼樣的計畫？過程中會遇到哪些人們？團隊要做哪些事情？
 
-    [:octicons-arrow-right-24:{ .lg .middle } 立即了解](/about_lt)
+    [:octicons-arrow-right-24:{ .lg .middle } 立即了解](/lt25/about_lt)
 
 -   :fontawesome-solid-comments:{ .lg .middle } __一起設計好討論__
 
@@ -25,7 +25,7 @@ description: 如何用一季的時間從零開始籌辦一場AI相關審議活�
 
     要完成目標設計一場「好」的討論，涉及到對於政策歷程、議題分析以及討論方法的理解，透過分享這些內容的基礎概念，陪伴一起設計並執行一場公共討論
 
-    [:octicons-arrow-right-24:{ .lg .middle } 立刻查看](/talk)
+    [:octicons-arrow-right-24:{ .lg .middle } 立刻查看](/lt25/talk)
 
 -   :fontawesome-solid-fire-extinguisher:{ .lg .middle } __陪你避免專案執行火在燒__
 
@@ -34,7 +34,7 @@ description: 如何用一季的時間從零開始籌辦一場AI相關審議活�
     透過自身敏捷專案管理經驗，分享基礎概念與注意事項，陪伴評估量能以及調整時程安排。
     要快速落地，也要安心搞定
 
-    [:octicons-arrow-right-24:{ .lg .middle } 評估看看](/proj.md)
+    [:octicons-arrow-right-24:{ .lg .middle } 評估看看](/lt25/proj.md)
 
 -   :material-robot-love:{ .lg .middle } __一些關於AI的補充__
 
@@ -42,7 +42,7 @@ description: 如何用一季的時間從零開始籌辦一場AI相關審議活�
 
     今年題目與AI相關，議題的聚焦與討論的深度自然也與領域知識的掌握有關，快速提供一些關於AI的補充作為參考，協助團隊完成議題手冊的編纂
 
-    [:octicons-arrow-right-24:{ .lg .middle } 了解更多](/AI)
+    [:octicons-arrow-right-24:{ .lg .middle } 了解更多](/lt25/AI)
 
 </div>
 
