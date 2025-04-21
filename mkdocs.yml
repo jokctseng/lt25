@@ -1,0 +1,194 @@
+
+
+# GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
+# Copyright (C) 2025 KC Tseng
+
+# This program is free software: you can redistribute it and/or modify 
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+#( at your option) any later version.
+
+#This program is distributed in the hope that it will be useful,
+#but WITHOUT ANY WARRANTY; without even the implied warranty of
+#MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#GNU General Public License for more details.
+
+#You should have received a copy of the GNU General Public License
+#along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+# This website is a derivative work based upon mkdocs-material 
+# distributed under the MIT License. 
+# The original software and its copyright notice are provided below:
+# Copyright (c) 2016-2025 Martin Donath <martin.donath@squidfunk.com>
+
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to
+# deal in the Software without restriction, including without limitation the
+# rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+# sell copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+
+# The above copyright notice and this permission notice shall be included in
+# all copies or substantial portions of the Software.
+
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+# FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+# IN THE SOFTWARE.
+
+
+# information
+site_name: 2025青年好政｜業師小工的團隊手札
+site_url: https://jokctseng.github.io/lt25/
+site_author: KC Tseng 
+site_description: >-
+  如何用一季的時間從零開始籌辦一場AI相關審議活動
+
+# REPOSITORY
+repo_name: jokctseng/lt25
+repo_url: https://github.com/jokctseng/lt25
+
+# Copyright
+
+copyright: CC BY-SA 4.0 &copy; 2025 KC Tseng 
+
+# Configuration
+theme:
+  name: material
+  language: zh-TW
+  features:
+    - toc.integrate
+    - toc.follow
+    - content.action.view
+    - content.code.annotate
+    - content.code.copyright
+    - content.tooltips
+    - navigation.top
+    - navigation.footer
+    - navigation.sections
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.path
+    - navigation.tabs
+    - content.tabs.link
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: deep orange
+      toggle:
+        icon: material/brightness-5
+        name: 切換至深色模式
+    - scheme: slate
+      primary: cyan
+      accent: amber
+      toggle:
+        icon: material/brightness-2
+        name: 切換至淺色模式
+
+  icon: 
+    tag:
+      Lets_Talk: fontawesome/solid/comments
+      AI: material/robot-love
+      info: fontawesome/solid/circle-info
+      proj: fontawesome/solid/suitcase 
+  font:
+    text: Noto Sans TC
+    code: Ubuntu Mono
+
+# Extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - tables
+  - md_in_html
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+      combine_header_slug: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.keys
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.smartsymbols
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.mark
+  - pymdownx.tasklist:
+      custom_checkbox: true 
+  - pymdownx.tilde
+  - pymdownx.caret
+  - pymdownx.critic
+
+
+
+# Plugins
+plugins:
+    - tags
+    - search
+    - privacy
+nav:
+  - 首頁: index.md
+  - 認識好政: 
+    - about_lt/index.md
+    - 計畫中的那些人: about_lt/ppl.md
+    - 待辦事項: about_lt/checklist.md
+  - 想想討論: 
+    - talk/index.md
+    - 議題分析: talk/content.md
+    - 建立討論: talk/facilitation.md
+  - 關於AI:
+    - AI/index.md
+    - 專有名詞介紹: AI/terms.md
+    - 現有規範政策: AI/policies_tw.md
+    - 倫理與治理趨勢: AI/trending.md
+    - 各國規範發展: AI/international.md
+    - 應用案例: AI/applications.md
+  - 專案滅火: proj.md
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/tkc0204
+    - icon: fontawesome/brands/bluesky
+      link: https://bsky.app/profile/gwenkc.bsky.social
+    - icon: fontawesome/brands/mastodon
+      link: https://mastodon.social/@kctseng
+    - icon: fontawesome/brands/github
+      link: https://github.com/jokctseng
+  tags:
+    計畫: proj
+    AI技術: AI
+    審議: Lets_Talk
+    規範: info
+    案例: info
+  consent:
+      title: Cooke同意聲明
+      description: >-
+        我使用 Cookie 來識別您的重複訪問和偏好，並衡量我們內容的有效性以及使用者是否找到他們正在尋找的內容。徵得您的同意，您正在幫助我們改進我們的文件。
+    
+
+
