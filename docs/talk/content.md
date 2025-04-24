@@ -319,6 +319,8 @@ description: 串起活動的議題
 
 ### 額外補充
 - [青年署｜動畫・議題千百面，來學解構議題吧](https://youtu.be/XgWeQ9z8tdA)
+- [小工｜議題分析前期階段工具](https://drive.google.com/file/d/1YNXAMGf2BCrd6_Q_z0WDy7zIhKoan2-v/view?usp=sharing)
+- [小工｜活動設計前期思考工具](https://drive.google.com/file/d/1ErAnvJFewVdjqbfuTlpDfH3iqxwPHqLF/view?usp=sharing)
 
 
 [^1]: Reference: Cairney, P., T. Heikkila and M. Wood, Making Policy in a Complex World, 2019. 

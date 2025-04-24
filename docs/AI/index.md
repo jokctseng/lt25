@@ -67,6 +67,18 @@ description: 議題背景資料
 [ 立即前往Polis投票 :fontawesome-solid-check-to-slot:{ .lg .middle}](https://polis.tw/94bmcrr85s){ .md-button }
 
 
+下列是更進一步的Google Colab實作筆記本，實作部分都選入門範例，並包含部分名詞介紹。一樣歡迎複製並玩玩看喔！
+
+> 需登入Google帳號
+
+[ 強化學習Colab簡介 :fontawesome-brands-google-drive:{ .lg .middle}](https://colab.research.google.com/drive/1RlW5L1guBFM7Mleh4FzurxltAig3A2Tl?usp=sharing){ .md-button }
+[ 深度學習Colab簡介 :fontawesome-brands-google-drive:{ .lg .middle}](https://colab.research.google.com/drive/14oiBs7ugcn0zHpHE6eqZqYenoMmvxb-D?usp=sharing){ .md-button }
+
+
+應用相關，也可以先從Google分享的提示工程(prompt engineering)開始了解，相信會讓實際運用諸如Gemini、ChatGPT等工具上更得心應手
+[ Google提示工程白皮書 :fontawesome-brands-google-drive:{ .lg .middle}](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view?usp=sharing){ .md-button }
+
+
 ---
 [^1]: 關於專案內容以官方最新公告為準
 
