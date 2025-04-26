@@ -76,8 +76,13 @@ description: 議題背景資料
 
 
 應用相關，也可以先從Google分享的提示工程(prompt engineering)開始了解，相信會讓實際運用諸如Gemini、ChatGPT等工具上更得心應手
+
 [ Google提示工程白皮書 :fontawesome-brands-google-drive:{ .lg .middle}](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view?usp=sharing){ .md-button }
 
+
+如果有意使用AI語音轉錄，可以看看中研院開源的工具
+
+[ 中研院AI轉錄 :fontawesome-solid-wrench:{ .lg .middle}](https://github.com/AS-AIGC/TranscriptHub){ .md-button }
 
 ---
 [^1]: 關於專案內容以官方最新公告為準
