@@ -85,6 +85,44 @@ description: 陪你避免專案執行，火在燒
 - [ ] 沿著時間軸，帶入希望參與者獲得的收獲與價值，評估有沒有哪裡不順暢
 - [ ] 在時間軸上建立若干個檢核點
 
+
+## 專案小工具
+
+不定期一些有助於專案管理的小工具～
+
+<br>
+
+### Google雲端硬碟更新通知工具
+
+<br>
+
+* 不含子資料夾更新，另有[子資料夾版本](https://github.com/jokctseng/GDriveNotifyXL)
+* 透過Google Apps Script設置，根據設定的時間定時檢查更新
+* 可使用Telegram或Email通知
+
+[ Google雲端硬碟更新通知 :fontawesome-solid-wrench:{ .lg .middle}](https://github.com/jokctseng/GDriveNotify){ .md-button }
+
+<br>
+
+### 快速產製證書與識別證的方法
+
+<br>
+
+內含使用Canva Pro以及Figma結合Google試算表的方式，沒有Illustrator也可以完成～下方的使用說明中就有包含檔案連結囉！
+
+[ 使用說明 :fontawesome-solid-wrench:{ .lg .middle}](https://kctseng.site/lt25certificatetemplate/){ .md-button }
+
+<br>
+
+### 簡易發證與驗證機制
+
+<br>
+
+不想印製證書嗎？沒關係，也可以讓大家現場填寫表單申請後直接在電子郵件收到PDF版證書
+
+[ 使用說明與程式碼 :fontawesome-solid-wrench:{ .lg .middle}](https://github.com/jokctseng/lt25certificate/){ .md-button }
+
+
 ## 團隊自評表
 
 !!! info "使用說明"

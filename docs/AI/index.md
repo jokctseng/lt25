@@ -75,6 +75,12 @@ description: 議題背景資料
 [ 深度學習Colab簡介 :fontawesome-brands-google-drive:{ .lg .middle}](https://colab.research.google.com/drive/14oiBs7ugcn0zHpHE6eqZqYenoMmvxb-D?usp=sharing){ .md-button }
 
 
+---
+
+## 更多資訊與工具
+
+
+
 應用相關，也可以先從Google分享的提示工程(prompt engineering)開始了解，相信會讓實際運用諸如Gemini、ChatGPT等工具上更得心應手
 
 [ Google提示工程白皮書 :fontawesome-brands-google-drive:{ .lg .middle}](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view?usp=sharing){ .md-button }
@@ -83,6 +89,13 @@ description: 議題背景資料
 如果有意使用AI語音轉錄，可以看看中研院開源的工具
 
 [ 中研院AI轉錄 :fontawesome-solid-wrench:{ .lg .middle}](https://github.com/AS-AIGC/TranscriptHub){ .md-button }
+
+
+在今年的Line群組中也有夥伴分享的資訊內容，我將部分這個線上手札中我有分享到的，以及在Line上收集到的也彙整在一個可以共同編輯的共筆中給大家一起參考。
+
+[ 其他資料Google Doc分享:fontawesome-solid-file:{ .lg .middle}](https://docs.google.com/document/d/1-dWetdaX1LEjXj7hDnS-KTNMVe3mEREhK3OwIB3Bt4Y/edit?usp=sharing){ .md-button }
+
+
 
 ---
 [^1]: 關於專案內容以官方最新公告為準
