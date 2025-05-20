@@ -1,6 +1,12 @@
 
 # Let's Talk 青年好政｜業師小工的團隊手札 
 
+> KC Tseng (c) 2025
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C3ODORW)
+
+---
+ 
 
 這裡包含了使用 MkDocs Material 建立並部署在 GitHub Pages 上的「Let's Talk 青年好政｜業師小工的團隊手札」網站的原始碼。
 
